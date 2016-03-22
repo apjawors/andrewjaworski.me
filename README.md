@@ -1,4 +1,6 @@
 # andrewjaworski.me
 My portfolio page
 
-Still having issues with getting the particles.js files to work. The background is bland for both sides of the brain, but there is supposed to be some floating canvas particles to represent the inside of the mind.
+I wanted to build a unique website from scratch. No Bootstrap or WordPress. This is just a simple website built HTML, CSS, and JavaScript/jQuery. 
+
+Some responsive issues here and there, especially when mobile devices are in landscape mode.
