@@ -1,4 +1,4 @@
-# andrewjaworski.me
+# My old site and portfolio
 My portfolio page
 
 I wanted to build a unique website from scratch. No Bootstrap or WordPress. This is just a simple website built HTML, CSS, and JavaScript/jQuery. 
